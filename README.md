@@ -27,4 +27,7 @@ The primary goal of this project is to clean and prepare the Brazilian Olist E-c
    The most common payment methods used by customers are credit cards, followed by boleto (a popular Brazilian payment method), vouchers, and debit cards.
 
 ## Next Steps
-With the dataset now cleaned and prepped, the next steps involve conducting detailed analyses in SQL to uncover deeper insights into customer behavior, sales performance, and operational efficiency. The prepared dataset will facilitate various analytical tasks, including segmentation, trend analysis, and performance evaluation across different dimensions. s
+With the dataset now cleaned and prepped, the next steps involve conducting detailed analyses in SQL to uncover deeper insights into customer behavior, sales performance, and operational efficiency. The prepared dataset will facilitate various analytical tasks, including segmentation, trend analysis, and performance evaluation across different dimensions.
+
+**Related links**:
+1. [Product Analysis & Trends - Brazil E-commerce](https://github.com/aufartirta/Brazil-E-Commerce-Product)
